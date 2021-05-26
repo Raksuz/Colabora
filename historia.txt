@@ -6,7 +6,7 @@ Editando Index
 
 Lista de Colaboradores
 
-1. Carlos Jesus Lopez Chacon ===> Header
+1. Carlos Jesus Lopez Chacon ===> contenido
 
 2. José Fernando Mata Mora ===> Footer
 
