@@ -8,3 +8,5 @@ Lista de Colaboradores
 
 1. Carlos Jesus Lopez Chacon ===> Header
 
+2. José Fernando Mata Mora ===> Footer
+
