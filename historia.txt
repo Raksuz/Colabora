@@ -9,4 +9,5 @@ Lista de Colaboradores
 1. Carlos Jesus Lopez Chacon ===> contenido
 
 2. José Fernando Mata Mora ===> Footer
+3. Diego Luna ===> Header
 
